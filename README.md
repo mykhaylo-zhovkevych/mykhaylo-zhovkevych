@@ -9,6 +9,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mykhaylo-zhovkevych&icon=2&color=3)](https://visitcount.itsvg.in)<br>
+[![](https://visitcount.itsvg.in/api?id=mykhaylo-zhovkevych&icon=2&color=3)](https://visitcount.itsvg.in)
 <meta name="google-site-verification" content="LHo_m9S8JM3PjAaH70akbIMhG77adBIgvZK0Su3wcXI" />
 
