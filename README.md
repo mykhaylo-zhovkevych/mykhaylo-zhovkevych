@@ -32,14 +32,16 @@
 
 # 📊 GitHub Stats:
 <p align="center">
+  <!-- Top Languages -->
   <a href="https://github.com/mykhaylo-zhovkevych">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykhaylo-zhovkevych&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykhaylo-zhovkevych&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
+  <!-- GitHub Stats -->
   <a href="https://github.com/mykhaylo-zhovkevych">
-    <img src="https://github-readme-stats.vercel.app/api?username=mykhaylo-zhovkevych&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mykhaylo-zhovkevych&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </p>
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350" height="250">
 </p>
 
