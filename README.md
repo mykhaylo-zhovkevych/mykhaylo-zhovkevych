@@ -41,10 +41,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mykhaylo-zhovkevych&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </p>
-<p align="right">
-  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350" height="250">
-</p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mykhaylo-zhovkevych&icon=2&color=3)](https://visitcount.itsvg.in)
