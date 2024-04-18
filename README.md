@@ -31,9 +31,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykhaylo-zhovkevych&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="margin-top: -20px;">
-
-![mykhaylo-zhovkevych's Stats](https://github-readme-stats.vercel.app/api?username=mykhaylo-zhovkevych&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykhaylo-zhovkevych&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="margin-top: -20px;"> ![mykhaylo-zhovkevych's Stats](https://github-readme-stats.vercel.app/api?username=mykhaylo-zhovkevych&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350" height="250">
 
