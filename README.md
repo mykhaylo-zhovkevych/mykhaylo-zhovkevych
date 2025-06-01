@@ -1,7 +1,8 @@
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub </h2>
 
-<p align="center">
+<p align="left">
+  <!-- GitHub Top Languages -->
   <a href="https://github.com/mykhaylo-zhovkevych">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykhaylo-zhovkevych&layout=compact&theme=dracula&hide_border=true" style="height: 300px; width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykhaylo-zhovkevych&layout=pie&theme=merko&hide_border=true" />
   </a>
 </p>
